@@ -16,3 +16,21 @@
 ### horizontal scale 
 
 <img src="cl4.png">
+
+## Cloud Deployment models 
+
+<img src="cl5.png">
+
+### Region and avzone in cloud 
+
+<img src="cl6.png">
+
+## GCP understanding 
+
+
+<img src="cl7.png">
+
+## any cloud will offer as a service model 
+
+<img src="cl8.png">
+
