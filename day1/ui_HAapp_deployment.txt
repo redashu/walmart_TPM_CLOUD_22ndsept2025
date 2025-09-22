@@ -1,0 +1,16 @@
+1. User base location is : Japan 
+2. Need to Deploy only UI app 
+    i)  OS in vm (which one to choose ) ? win10 / win 2019 
+    ii) RAM , cpu , HDD 
+    iii) app server (which one to choose) {IIS,nginx,httpd,tomcat etc}
+    iv) firewall rules to allow user to access app 
+3. start gcp region based compare 
+4. HA (just creating a sinle vm is not enough ) (at least 2 vm selection)
+5. to balance traffic in both the vm we need LoadBalancer 
+
+==> final cost gonna be 
+i) OS type , app server type 
+ii) region {choose zones for each vm}
+iii) LoadBalancer 
+
+===after this let me know the costing 
