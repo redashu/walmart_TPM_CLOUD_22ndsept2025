@@ -20,3 +20,7 @@
 
 
 <img src="st3.png">
+
+## SQL vs NOSQL  in cloud 
+
+<img src="st4.png">
