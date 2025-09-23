@@ -5,3 +5,18 @@
 <img src="rev1.png">
 
 [app_engine](app_engine.md)
+
+
+## storage service understanding in cloud 
+
+<img src="st1.png">
+
+### object storage 
+
+<img src="st2.png">
+
+
+## more info about block storage in cloud 
+
+
+<img src="st3.png">
