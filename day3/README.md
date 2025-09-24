@@ -29,3 +29,25 @@
 ## project link 
 
 [project](project.md)
+
+### Understanding Replication design scale pattern 
+
+<img src="rep1.png">
+
+### in Db system desing pattern -- importance of partition and sharding 
+
+<img src="rep2.png">
+
+
+### Event driven system  (kafka , rabbitmq )
+
+<img src="rep3.png">
+
+## introduction to service mesh solution 
+
+
+<img src="rep4.png">
+
+### solution by service mesh products 
+
+<img src="rep5.png">
