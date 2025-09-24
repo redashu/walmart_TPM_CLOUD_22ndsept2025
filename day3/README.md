@@ -51,3 +51,7 @@
 ### solution by service mesh products 
 
 <img src="rep5.png">
+
+### stateful vs stateless application 
+
+<img src="rep6.png">
