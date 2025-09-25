@@ -82,3 +82,33 @@ Teams will design a system (example options: **ridesharing backend** or **video 
 - Each team presents their solution
 - Other teams and instructor provide structured feedback
 
+###
+
+# Communication Role-Play Scenarios for TPMs
+
+---
+
+## TPM → Engineer
+
+- **Focus:** Technical feasibility  
+- **What to emphasize:** Clarity on requirements, dependencies, and edge cases.  
+- **Avoid:** Vague business jargon.  
+- **Example role-play:** TPM explains a feature request; engineer pushes back on scalability concerns.
+
+---
+
+## TPM → Architect
+
+- **Focus:** Trade-offs + alignment  
+- **What to emphasize:** Performance, security, scalability, and integration with existing systems.  
+- **Avoid:** Getting into micro-level implementation details.  
+- **Example role-play:** TPM asks architect about whether to use a managed DB vs. self-hosted cluster.
+
+---
+
+## TPM → Leadership
+
+- **Focus:** Business impact  
+- **What to emphasize:** Cost, timeline, risk, customer experience.  
+- **Avoid:** Overwhelming with low-level tech detail.  
+- **Example role-play:** TPM presents why adopting serverless reduces infra costs and accelerates delivery.
